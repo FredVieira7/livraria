@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "srDYfj8Zj38sTD49JML1+s282LAeexOdISSwYEBz6Fq4U/9y+YLf51iYspr2m8pwkIDE28dBIG6Ps4hphBGEZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fredv\\source\\repos\\Livraria.Api\\Livraria.Domain\\Livraria.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fredv\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\fredv\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\fredv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

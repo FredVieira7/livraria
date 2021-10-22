@@ -1,0 +1,17 @@
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\Livraria.Infra.Data.deps.json
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\Livraria.Infra.Data.dll
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\ref\Livraria.Infra.Data.dll
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\Livraria.Infra.Data.pdb
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\Livraria.Domain.dll
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\Livraria.Infra.dll
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\Livraria.Domain.pdb
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\bin\Debug\net5.0\Livraria.Infra.pdb
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.AssemblyInfo.cs
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.csproj.CopyComplete
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.dll
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\ref\Livraria.Infra.Data.dll
+C:\Users\fredv\source\repos\Livraria.Api\Livraria.Infra.Data\obj\Debug\net5.0\Livraria.Infra.Data.pdb
