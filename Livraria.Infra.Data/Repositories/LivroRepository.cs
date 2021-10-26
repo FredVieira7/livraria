@@ -8,7 +8,7 @@ using Livraria.Domain.Query;
 using Livraria.Infra.Data.DataContexts;
 using Livraria.Domain.Interfaces.Respositories;
 
-namespace LivrariaComMongo.Infra.Data.Repositories
+namespace Livraria.Infra.Data.Repositories
 {
     public class LivroRepository : ILivroRepository
     {
