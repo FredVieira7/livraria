@@ -32,7 +32,7 @@ namespace Livraria.Infra.Data.Repositories
 
         public void Excluir(string id)
         {
-            _dataContext.LivrosDb.DeleteOne(book => book.Id.ToString() == id);
+            _dataContext.LivrosDb.DeleteOne(book => book.Id == id);
         }
 
         public List<Livro> Listar()
@@ -42,12 +42,12 @@ namespace Livraria.Infra.Data.Repositories
 
         public Livro Obter(string id)
         {
-            return _dataContext.LivrosDb.Find(book => book.Id.ToString() == id).FirstOrDefault();
+            return _dataContext.LivrosDb.Find(book => book.Id == id).FirstOrDefault();
         }
 
         public bool CheckId(string id)
         {
-            return _dataContext.LivrosDb.Find(book => book.Id.ToString() == id).Any();
+            return _dataContext.LivrosDb.Find(book => book.Id == id).Any();
         }
     }
 }
