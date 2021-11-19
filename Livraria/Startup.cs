@@ -7,7 +7,6 @@ using Livraria.Domain.Interfaces.Respositories;
 using Livraria.Infra.Data.DataContexts;
 using Livraria.Infra.Data.Respositories;
 using Livraria.Infra.Settings;
-using LivrariaComMongo.Infra.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http.Features;
